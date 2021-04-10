@@ -8,5 +8,6 @@ class Menu extends Phaser.Scene{
     //change scenes
     this.scene.start("playScene");
     }
+
 }
 
